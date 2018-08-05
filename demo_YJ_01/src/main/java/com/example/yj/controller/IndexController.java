@@ -11,4 +11,7 @@ public class IndexController {
 	public String indexFirst() {
 		return "hello spring tool suite!";
 	}
+	public void testGit() {
+		System.out.println("测试git提交");
+	}
 }
